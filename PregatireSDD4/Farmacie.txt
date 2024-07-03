@@ -1,0 +1,5 @@
+3,HelpNet,6345,Alina,40,Arad
+1,Catena,3000,Andrei,45,Bucuresti
+2,DoctorMax,3456,Ana,23,Cluj
+4,FarmaciaFamiliei,3426,Veronica,13,Bucuresti
+5,FarmaciaTei,7004,Marin,30,Bucuresti
